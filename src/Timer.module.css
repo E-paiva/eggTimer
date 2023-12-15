@@ -115,7 +115,7 @@ h1 {
 }
 
 .playpause {
-    background-image: url(PlayPause.svg);
+    background-image: url(./PlayPause.svg);
     background-color: transparent;
     border: none;
     background-size: contain;
@@ -126,7 +126,7 @@ h1 {
 }
 
 .stop {
-    background-image: url(Stop.svg);
+    background-image: url(./Stop.svg);
     background-color: transparent;
     border: none;
     background-size: contain;
